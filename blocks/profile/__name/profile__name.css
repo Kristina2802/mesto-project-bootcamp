@@ -1,4 +1,4 @@
-.personal-card__name {
+.profile__name {
     max-width: 294px;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@
     overflow: hidden;
   }
   @media screen and (max-width: 400px) {
-    .personal-card__name {
+    .profile__name {
       margin-left: 27px;
       margin-left: 13px;
       max-width: 226px;

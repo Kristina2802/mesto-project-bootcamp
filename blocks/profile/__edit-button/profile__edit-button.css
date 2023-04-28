@@ -1,4 +1,4 @@
-.personal-card__edit-button {
+.profile__edit-button {
     width: 24px;
     height: 24px;
     margin: 0 0 0 18px;
@@ -13,13 +13,13 @@
     cursor: pointer;
   }
   
-  .personal-card__edit-button:hover {
+  .profile__edit-button:hover {
     opacity: .6;
     transition: opacity .3s ease-in-out;
   }
   
   @media screen and (max-width: 400px) {
-    .personal-card__edit-button {
+    .profile__edit-button {
       width: 18px;
       height: 18px;
       margin-left: 10px;
